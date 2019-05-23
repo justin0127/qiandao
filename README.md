@@ -1,6 +1,5 @@
 qiandao
 =======
-...
 签到 —— 一个自动签到框架 base on an HAR editor
 
 HAR editor 使用指南：https://github.com/binux/qiandao/blob/master/docs/har-howto.md
